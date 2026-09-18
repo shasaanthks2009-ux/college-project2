@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+li,h1,ul{
+    display: inline;
+}
+ul{
+    margin-left: 60%;
+}
+.zero{
+  margin-left: 20px;
+}
+.one{
+    color: black;
+    cursor: pointer;
+    margin-left: 10px;
+    position: relative;
+    top:80px;
+    color: white;
+}
+li:hover{
+    color: yellow;
+}
